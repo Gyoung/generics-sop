@@ -54,7 +54,7 @@ library
                        Generics.SOP.TH
                        Generics.SOP.Type.Metadata
                        -- exposed via Generics.SOP:
-                       Generics.SOP.Instances
+                      --  Generics.SOP.Instances
                        Generics.SOP.Metadata
                        Generics.SOP.Universe
                        -- re-exported from Data.SOP:

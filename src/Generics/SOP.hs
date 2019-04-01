@@ -386,7 +386,7 @@ import Data.Proxy (Proxy(..))
 import Generics.SOP.BasicFunctors
 import Generics.SOP.Classes
 import Generics.SOP.Constraint
-import Generics.SOP.Instances ()
+-- import Generics.SOP.Instances ()
 import Generics.SOP.Metadata
 import Generics.SOP.NP
 import Generics.SOP.NS
